@@ -1,9 +1,10 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:1a3a4a,60:2c5364,100:00f7ff&height=320&section=header&text=ASC%20%7C%20MurodovShohruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Architect%20%7C%20Full-Stack%20%26%203D%20Developer&descAlignY=65&descSize=19" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=200&section=header&text=Murodov%20Shohruh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=68&descSize=18" alt="Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=780&lines=Building+Scalable+Systems;Microservices+%26+Cloud+Architect;Creating+Immersive+3D+Experiences;Clean+Code+%7C%20High+Performance+%7C%20Beautiful+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6EB5FF&size=20&center=true&vCenter=true&width=600&lines=Node.js+%7C+NestJS+%7C+TypeScript;Docker+%7C+PostgreSQL+%7C+Redis;React+%7C+Three.js+%7C+TailwindCSS" alt="Typing SVG"/>
 </p>
 
 ---
@@ -25,13 +26,15 @@ Katta yuklamaga bardoshli backend tizimlari, microservices arxitekturasi va zamo
 ## 🚀 Tech Stack
 
 ### Backend & Systems
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,go,python,docker,kubernetes,aws,gcp,postgresql,mongodb,redis,rabbitmq,git,github,linux&perline=9" alt="Backend Stack"/>
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,go,python,docker,kubernetes,aws,postgresql,mongodb,redis,rabbitmq,linux&perline=7" alt="Backend Stack"/>
 </p>
 
-### Frontend & Immersive
+### Frontend & 3D
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,threejs,framer,tailwind,zustand,graphql&perline=8" alt="Frontend & 3D Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,threejs,tailwind,graphql&perline=5" alt="Frontend Stack"/>
 </p>
 
 ---
