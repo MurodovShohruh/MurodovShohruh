@@ -24,15 +24,13 @@ Katta yuklamaga bardoshli backend tizimlari, microservices arxitekturasi va zamo
 ## 🚀 Tech Stack
 
 ### Backend & Systems
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,go,python,docker,kubernetes,aws,postgresql,mongodb,redis,rabbitmq,linux&perline=7" alt="Backend Stack"/>
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,python,postgresql,mongodb&perline=5" />
 </p>
 
-### Frontend & 3D
-
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,threejs,tailwind,graphql&perline=5" alt="Frontend Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=4" />
 </p>
 
 ---
