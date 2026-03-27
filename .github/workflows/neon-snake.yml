@@ -1,11 +1,11 @@
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   
-name: Generate Neon Snake Hard Level
+name: Neon Snake HARD + Maze
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # har 6 soatda yangilanadi
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,14 +16,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Snake generator
       - uses: Platane/snk@v3
         with:
           github_user_name: MurodovShohruh
           outputs: |
-            dist/snake-neon-hard.svg?color_snake=#00F7FF&color_dots=#001F3F,#003366,#004C99,#0066CC,#00AEEF&length=25&speed=fast
+            dist/snake-neon-hard.svg?color_snake=#00F7FF&color_dots=#000814,#001D3D,#003566,#FFC300,#FFD60A
 
-      # Step 2: GitHub Pages deploy
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
