@@ -62,8 +62,8 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=15&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=15&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff&sideLabels_color=00f7ff" width="49%" alt="Contribution Streak"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurodovShohruh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10&size_weight=0.5&count_weight=0.5" width="65%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurodovShohruh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=15&title_color=00f7ff&text_color=ffffff" width="68%" alt="Top Languages"/>
 </p>
 
 ---
