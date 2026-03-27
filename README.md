@@ -10,22 +10,35 @@
 
 ## 🧠 About Me
 
-Salom! Men **Murodov Shohruh** — Backend Architect va scalable tizimlar quruvchiman.  
+Salom! Men **Murodov Shohruh** — Backend Architect va yuqori yuklamaga bardoshli tizimlar quruvchiman.  
 
-Hozirda katta yuklamaga bardoshli, yuqori tezlikdagi backend tizimlarini loyihalashtirish va rivojlantirish bilan shug‘ullanaman. Clean Architecture, Domain-Driven Design va Microservices yondashuvlarini qo‘llab, loyihalarni production darajasida barpo etaman.
+Hozirda katta miqyosli backend loyihalarini loyihalashtirish, rivojlantirish va optimallashtirish bilan shug‘ullanaman. Clean Architecture, Domain-Driven Design (DDD), Microservices va Event-Driven Development yondashuvlaridan foydalanib, ishonchli va tez ishlaydigan production-level tizimlar yarataman.
 
-- **Asosiy yo‘nalishlarim**:  
-  - Yuqori yuklamali API lar va Distributed Systems  
-  - Microservices architecture va Event-Driven Development  
-  - Cloud-native ilovalar (Docker, Kubernetes)  
-  - Performance optimization va Reliable code yozish  
+### 🔨 Asosiy Loyihalarim:
 
-Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** va kelajakda ham qulay bo‘lishi kerak.
+- **🛒 E-Commerce Microservices Platform**  
+  NestJS + TypeScript + PostgreSQL + Redis + RabbitMQ asosida qurilgan to‘liq e-commerce backend.  
+  Order, Payment, Inventory va Notification service’lar orasida event-driven architecture qo‘llangan. Kubernetes orqali deploy qilingan.
+
+- **⚡ High-Load API Gateway & Rate Limiter**  
+  10,000+ RPS ga bardosh beradigan API Gateway. Caching, authentication va request throttling ni optimallashtirgan holda yaratilgan.
+
+- **📨 Real-time Notification System**  
+  WebSocket + Redis Pub/Sub + Node.js yordamida millionlab foydalanuvchiga real-time bildirishnomalar yetkazuvchi tizim.
+
+- **🛠 Internal DevOps Dashboard**  
+  Kompaniya ichidagi CI/CD jarayonlarini avtomatlashtirish va monitoring qilish uchun yaratilgan tool (Docker + GitHub Actions + custom analytics).
+
+- **📱 Freelance & Startup Loyihalari**  
+  Bir nechta startuplar uchun REST & GraphQL API’lar, Telegram bot integratsiyalari, payment gateway’lari va admin panellar.
+
+**Hozirgi fokusim**: Distributed Systems, Event Sourcing, CQRS va Cloud-Native arxitekturalarni yanada chuqurroq rivojlantirish.
+
+Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** va uzoq muddatli bo‘lishi kerak.
 
 ---
 
 ## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,express,go,python,docker,kubernetes,aws,gcp,postgresql,mongodb,redis,rabbitmq,git,github,linux&perline=10" alt="Tech Stack"/>
 </p>
@@ -33,7 +46,6 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 ---
 
 ## 🌌 3D Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurodovShohruh&theme=tokyo-night&hide_border=true&area=true&color=00f7ff" alt="Contribution Graph"/>
 </p>
@@ -41,7 +53,6 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 ---
 
 ## 🐍 Neon Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MurodovShohruh/MurodovShohruh/output/snake-neon.svg" alt="Neon Snake"/>
 </p>
@@ -51,24 +62,26 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Streak Stats"/>
 </p>
 
+---
+
+## 🔥 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurodovShohruh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurodovShohruh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10&size_weight=0.5&count_weight=0.5" width="65%" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🌐 Portfolio & Links
-
 👉 **[murodovshohruh.vercel.app](https://murodovshohruh.vercel.app)**
 
 ---
 
 ## 📬 Contact
-
 - 📧 **Murodovshohruh2003@gmail.com**  
 - 🔗 GitHub: **[MurodovShohruh](https://github.com/MurodovShohruh)**
 
@@ -76,12 +89,13 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 
 ## 🧬 Philosophy
 
-> ⚡ "Code is not just working — it must scale, be maintainable and beautiful."
+> ⚡ **"Code is not just working — it must scale, be maintainable, and beautiful."**  
+> 
+> *"Yozilgan kod bir marta ishlasa yetarli emas — u o‘sishi, oson o‘qilishi va uzoq yillar xizmat qilishi kerak."*
 
 ---
 
 ## 👁 Visitor Counter
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MurodovShohruh&label=Profile%20Views&color=00f7ff&style=flat&base=2000" alt="Views"/>
 </p>
