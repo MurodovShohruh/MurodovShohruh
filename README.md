@@ -17,24 +17,18 @@ Hozirda katta miqyosli backend loyihalarini loyihalashtirish, rivojlantirish va 
 ### 🔨 Asosiy Loyihalarim:
 
 - **🛒 E-Commerce Microservices Platform**  
-  NestJS + TypeScript + PostgreSQL + Redis + RabbitMQ asosida qurilgan to‘liq e-commerce backend.  
-  Order, Payment, Inventory va Notification service’lar orasida event-driven architecture qo‘llangan. Kubernetes orqali deploy qilingan.
+  NestJS + TypeScript + PostgreSQL + Redis + RabbitMQ asosida qurilgan to‘liq e-commerce backend.
 
 - **⚡ High-Load API Gateway & Rate Limiter**  
-  10,000+ RPS ga bardosh beradigan API Gateway. Caching, authentication va request throttling ni optimallashtirgan holda yaratilgan.
+  10,000+ RPS ga bardosh beradigan API Gateway.
 
 - **📨 Real-time Notification System**  
-  WebSocket + Redis Pub/Sub + Node.js yordamida millionlab foydalanuvchiga real-time bildirishnomalar yetkazuvchi tizim.
+  WebSocket + Redis Pub/Sub orqali millionlab foydalanuvchiga real-time xabar yetkazish.
 
 - **🛠 Internal DevOps Dashboard**  
-  Kompaniya ichidagi CI/CD jarayonlarini avtomatlashtirish va monitoring qilish uchun yaratilgan tool (Docker + GitHub Actions + custom analytics).
+  CI/CD jarayonlarini avtomatlashtirish uchun yaratilgan tool.
 
-- **📱 Freelance & Startup Loyihalari**  
-  Bir nechta startuplar uchun REST & GraphQL API’lar, Telegram bot integratsiyalari, payment gateway’lari va admin panellar.
-
-**Hozirgi fokusim**: Distributed Systems, Event Sourcing, CQRS va Cloud-Native arxitekturalarni yanada chuqurroq rivojlantirish.
-
-Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** va uzoq muddatli bo‘lishi kerak.
+Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz va oson kengaytiriladigan** bo‘lishi kerak.
 
 ---
 
@@ -63,7 +57,7 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=15&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=15&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff&sideLabels_color=00f7ff" width="49%" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=15&ring_color=00f7ff&fire_color=ff00aa" width="49%" alt="Streak"/>
 </p>
 
 ---
@@ -73,6 +67,15 @@ Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** v
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurodovShohruh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=15&title_color=00f7ff&text_color=ffffff" width="68%" alt="Top Languages"/>
 </p>
+
+**Asosiy tillarim va texnologiyalar:**
+
+- **TypeScript & JavaScript** — Asosiy backend tili (NestJS loyihalarida dominant)
+- **Go** — High-performance va concurrent servislar uchun
+- **Python** — Automation, scripting va tool’lar uchun
+- **SQL (PostgreSQL)** va **NoSQL (MongoDB, Redis)** — Ma’lumotlar bazasi bilan ishlash
+
+Hozirda TypeScript + NestJS stackida chuqur ishlayapman va Go tilini faol rivojlantirmoqdaman.
 
 ---
 
