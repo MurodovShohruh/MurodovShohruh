@@ -1,0 +1,1 @@
+import{j as a,m as e}from"./index-TwWwtYPv.js";function i({children:r,className:s="",onClick:o}){return a.jsx(e.div,{whileHover:{scale:1.02,y:-5},transition:{type:"spring",stiffness:300,damping:20},onClick:o,className:`rounded-2xl p-6 cursor-default ${s}`,style:{background:"rgba(255,255,255,0.02)",border:"0.5px solid rgba(255,255,255,0.08)"},children:r})}export{i as C};
