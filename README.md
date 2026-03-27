@@ -1,24 +1,3 @@
-# 🌌 ASC | Architect of Scalable Code
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=ASC%20|%20Backend%20Architect&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Scalable+Systems+Builder;Backend+%26+Cloud+Developer;Clean+Code+Advocate;Microservices+Architect" />
-</p>
-
----
-
-## 🧠 About Me
-
-```diff
-+ Backend Developer (Node.js / API / Microservices)
-+ Cloud Architecture Enthusiast
-+ Performance & Scalability focused
-+ Clean Code = Real Power
-```
-
 ---
 
 ## 🚀 Tech Stack
@@ -64,7 +43,7 @@
 
 ## 🌐 Portfolio
 
-👉 https://your-domain.vercel.app
+👉 [murodovshohruh.vercel.app](https://murodovshohruh.vercel.app)
 
 ---
 
@@ -76,11 +55,7 @@
 
 ## 🧬 Philosophy
 
-<p align="center">
-
-> ⚡ “Code is not just working — it must scale.”
-
-</p>
+> ⚡ "Code is not just working — it must scale."
 
 ---
 
