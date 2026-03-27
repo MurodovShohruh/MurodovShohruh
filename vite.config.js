@@ -1,16 +1,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { viteStaticCopy } from 'vite-plugin-static-copy'
 
 export default defineConfig({
-  base: '/MurodovShohruh/',  // 👈 GitHub Pages repo nomiga mos
+  base: '/MurodovShohruh/',
   plugins: [
-    react(),
-    viteStaticCopy({
-      targets: [
-        { src: 'index.html', dest: '' }, // React Router uchun 404 muammosi
-      ]
-    })
+    react()
   ],
   build: {
     outDir: 'dist'
