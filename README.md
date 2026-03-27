@@ -73,12 +73,12 @@ Katta yuklamaga bardoshli backend tizimlari, microservices arxitekturasi va zamo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https:/https://murodovshohruh.github.io/MurodovShohruh/?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=16&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" width="49%" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=16&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" width="49%" alt="Stats"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=16&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff" width="49%" alt="Streak"/>
 </p>
 
-...
-
+---
 ## 🌐 Portfolio & Links
 
 👉 **[/murodovshohruh.github.io](https://murodovshohruh.github.io/MurodovShohruh/)**
