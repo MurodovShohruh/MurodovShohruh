@@ -11,13 +11,13 @@
 
 Salom! Men **Murodov Shohruh** — Backend Architect va Full-Stack developer.  
 
-Katta yuklamaga bardoshli backend tizimlari, microservices arxitekturasi va zamonaviy frontend hamda immersiv 3D tajribalar yaratish bilan shug‘ullanaman. Clean Architecture, Domain-Driven Design va yuqori samaradorlikka asoslangan kod yozish — mening asosiy printsipim.
+Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribalar (Three.js + React) bilan ishlayman. Kodimni toza, oson kengaytiriladigan va samarali qilish mening asosiy printsipim.
 
 **Hozirgi fokusim**:  
-- Yuqori yuklamali va ishonchli backend tizimlari  
-- Event-driven va distributed architectures  
-- Interaktiv 3D veb tajribalar (Three.js + React)  
-- Kodning nafaqat ishlashi, balki kelajakda ham oson kengaytirilishi va saqlanishi
+- Tezkor va ishonchli backend tizimlari (Node.js + NestJS) 
+- Event-driven va microservices arxitekturalari
+- Interaktiv 3D sahnalar va vizualizatsiyalar (Three.js / React Three Fiber) 
+- Kodning kelajakda kengaytirilishi va oson saqlanishi
 
 ---
 
@@ -38,17 +38,16 @@ Katta yuklamaga bardoshli backend tizimlari, microservices arxitekturasi va zamo
 ## ⚛️ Mahorat
 
 **Frontend & Immersive Development**
-- **⚛️ React + Vite** — Ultra-fast SPA development with modern tooling
-- **🌌 Three.js / React Three Fiber** — Immersive 3D experiences and GPU-accelerated visuals
-- **🎬 Framer Motion** — Physics-based animations and gesture-driven interactions
-- **🧠 Zustand + React Query** — Lightweight and scalable state management
-- **🎨 TailwindCSS** — Utility-first styling with custom design systems
+- **⚛️ React + Vite** — Tezkor va zamonaviy SPA lar
+- **🌌 Three.js / React Three Fiber** — 3D sahnalar va vizualizatsiyalar
+- **🎬 Framer Motion** — Animatsiyalar va interaktiv effektlar
+- **🧠 Zustand + React Query** — Holat boshqaruvi va server ma’lumotlarini samarali ishlash
+- **🎨 TailwindCSS** — Tez va chiroyli dizayn
 
 **Backend & System Development**
-- **🔗 Node.js + NestJS** — Scalable REST & GraphQL APIs
-- **🐍 Python** — Automation, data processing and AI integrations
-- **⚙️ Go & C++** — High-performance and system-level programming
-- **🐳 Docker + Kubernetes** — Cloud-native deployment and orchestration
+- **🔗 Node.js + NestJS** — REST va GraphQL API lar
+- **🐍 Python** — Skriptlar, ma’lumotlarni qayta ishlash, AI integratsiyasi
+- **🐳 Docker + Kubernetes** — Loyihalarni konteynerga joylash va ishga tushirish
 
 ---
 
