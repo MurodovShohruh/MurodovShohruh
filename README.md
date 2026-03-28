@@ -54,7 +54,7 @@ Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribal
 ## 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=MurodovShohruh&theme=tokyo-night&hide_border=true&area=true&color=00f7ff&bg_color=0f2027" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurodovShohruh&theme=tokyo-night&hide_border=true&area=true&color=00f7ff&bg_color=0f2027" alt="Contribution Graph"/>
 </p>
 
 ## 🐍 Neon Snake
@@ -66,7 +66,7 @@ Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribal
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=16&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff" width="49%" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=16&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff" width="49%" alt="Streak"/>
 </p>
 
 ---
